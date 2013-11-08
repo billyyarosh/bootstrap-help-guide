@@ -6,18 +6,26 @@ Bootstrap Guide: The Virtual Tour Library
 **With This Library You Can:**
 
 * Apply an overlay to a web page, navigating a user through the pages functions.
-* Start the virtual tour via javascript invocation or with a hashtag #vtour in the url.
+* Start the virtual tour via javascript invocation or with a hash-tag #vtour in the URL.
 * Help a user understand your page in a simple and affective way.
 
-**Dependencies** (Must be downlaoded seperately)
+**Dependencies** (Must be downloaded separately)
 
-* Twitter Bootsraps Modal and Popover Javascript and stylings
+* Twitter Bootstraps Modal and Popover Javascript and styling.
 * jQuery 1.7
 
 Screen Shots
 -------------
 
+### VTour Example
 
+![tour1](http://1.bp.blogspot.com/-g2MwAp-mXV8/Un1Lucc8M7I/AAAAAAAACEM/fF-HwdDd6iM/s640/Screen+Shot+2013-11-08+at+3.26.14+PM.png)
+![tour2](http://2.bp.blogspot.com/-nROd17JFWV4/Un1LufSidjI/AAAAAAAACD0/G7TP-fVDsqk/s640/Screen+Shot+2013-11-08+at+3.26.26+PM.png)
+![tour3](http://4.bp.blogspot.com/-YIpfB2vdVbo/Un1Lu8q1GSI/AAAAAAAACEE/KP-lCcP52vM/s640/Screen+Shot+2013-11-08+at+3.27.10+PM.png)
+
+### VGuide Example
+
+![guide1](http://3.bp.blogspot.com/-B-dRQaQ6WPU/Un1Lu6GYLNI/AAAAAAAACEc/Ey12UuTI2ms/s640/Screen+Shot+2013-11-08+at+3.27.20+PM.png)
 
 
 Demo
