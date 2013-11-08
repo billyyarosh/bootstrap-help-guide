@@ -36,6 +36,8 @@ Another opensource project, [Bootstrap Admin Theme](https://github.com/keaplogik
 - [VGuide Demo](http://keaplogik.github.io/Bootstrap-Clean-Dashboard-Theme/demo/form.html#vguide)
 - [VTour Demo](http://keaplogik.github.io/Bootstrap-Clean-Dashboard-Theme/demo/form.html#vtour)
 
+The demos consist of an html file that provides instructions to the tour library. The demos tour files can be found in the [clean dashboard demo directory](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme/tree/master/demo/guide).
+
 Quick Start
 -----------
 
@@ -130,10 +132,12 @@ Any page that wants to define a virtual tour for its page must have the variable
 Say you want to create a VTour guide for a webpage that contains a form.
 In this case your tour page would contain, in order, a div for each field on that page and a description of the purpose or use of that field, or directions on how to fill in/edit/update that field or area on the page. 
 
-Each div tag has two attributes:
+Each div tag has four attributes:
+
 + `display` will be used to determine if the text in that div should be displayed in a popover or a modal. 
 + `field` will specify the fileds id in which the popover or modal is associated with. This means that any field that has a purpose in the virtual tour, needs to have an "id" attribute set. 
 + `placement` is an optional attribute for popovers. This gives you control on where the popover should be placed (left, right, top, bottom) in association to the field it is designed for.
++ `mobile-placement` can be used to change the placement of popovers when using on a mobile device.
 
 > EXAMPLE:
 
