@@ -31,7 +31,7 @@ Screen Shots
 Demo
 -----------
 
-Another opensource project, [Bootstrap Admin Theme](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme) uses the tour in it's project. It provides a demo example for each tour type:
+Another open source project, [Bootstrap Admin Theme](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme) uses the tour library. Live demos are provided for each help guide type:
 
 - [VGuide Demo](http://keaplogik.github.io/Bootstrap-Clean-Dashboard-Theme/demo/form.html#vguide)
 - [VTour Demo](http://keaplogik.github.io/Bootstrap-Clean-Dashboard-Theme/demo/form.html#vtour)
