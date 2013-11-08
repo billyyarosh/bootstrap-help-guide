@@ -1,7 +1,7 @@
 Bootstrap Help Guide: The Virtual Tour Library
 =================
 
-*Gives the user a guided walk through of your webpage and it's functions.* A jQuery library used for designing help pages for your website.
+A jQuery library used for designing help pages for your website. *Gives the user a guided walk through of your webpage and it's functions.*
 
 **With This Library You Can:**
 
