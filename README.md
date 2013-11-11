@@ -129,8 +129,8 @@ In this case your tour page would contain, in order, a div for each field on tha
 
 Each div tag has four attributes:
 
-+ `display` will be used to determine if the text in that div should be displayed in a popover or a modal. 
-+ `field` will specify the fileds id in which the popover or modal is associated with. This means that any field that has a purpose in the virtual tour, needs to have an "id" attribute set. 
++ `display` determines the popover display type (popover or modal). 
++ `field` specifies the html attributes id in which the popover or modal should hover on. This means that any field that has a purpose in the virtual tour, needs to have an "id" attribute set. 
 + `placement` is an optional attribute for popovers. This gives you control on where the popover should be placed (left, right, top, bottom) in association to the field it is designed for.
 + `mobile-placement` can be used to change the placement of popovers when using on a mobile device.
 
