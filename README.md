@@ -19,10 +19,7 @@ Screen Shots
 
 ### VTour Example
 
-![tour1](http://1.bp.blogspot.com/-g2MwAp-mXV8/Un1Lucc8M7I/AAAAAAAACEM/fF-HwdDd6iM/s640/Screen+Shot+2013-11-08+at+3.26.14+PM.png)
-![tour2](http://2.bp.blogspot.com/-nROd17JFWV4/Un1LufSidjI/AAAAAAAACD0/G7TP-fVDsqk/s640/Screen+Shot+2013-11-08+at+3.26.26+PM.png)
-![tour3](http://4.bp.blogspot.com/-YIpfB2vdVbo/Un1Lu8q1GSI/AAAAAAAACEE/KP-lCcP52vM/s640/Screen+Shot+2013-11-08+at+3.27.10+PM.png)
-
+![tour1](http://1.bp.blogspot.com/-qz-ui2649s8/UoEwopiRlMI/AAAAAAAACI8/B6DlmD30AAA/s1600/vtour_screen_cap.gif)
 ### VGuide Example
 
 ![guide1](http://3.bp.blogspot.com/-B-dRQaQ6WPU/Un1Lu6GYLNI/AAAAAAAACEc/Ey12UuTI2ms/s640/Screen+Shot+2013-11-08+at+3.27.20+PM.png)
