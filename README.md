@@ -5,7 +5,7 @@ A jQuery library used for designing help pages for your website. *Gives the user
 
 ### VTour Demo
 
-![tour1](http://3.bp.blogspot.com/-xVcyvvy8t_g/UoEzGcztEdI/AAAAAAAACJI/NGs0ltPqLVU/s1600/vtour_screen_cap.gif)
+![tour1](http://4.bp.blogspot.com/--dAwt8EjiK0/UoE2r2UwY5I/AAAAAAAACJU/Yt_PiTvgjqE/s1600/vtour_screen_cap.gif)
 
 **With This Library You Can:**
 
