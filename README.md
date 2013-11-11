@@ -3,6 +3,10 @@ Bootstrap Help Guide: The Virtual Tour Library
 
 A jQuery library used for designing help pages for your website. *Gives the user a guided walk through of your webpage and it's functions.*
 
+### VTour Demo
+
+![tour1](http://3.bp.blogspot.com/-xVcyvvy8t_g/UoEzGcztEdI/AAAAAAAACJI/NGs0ltPqLVU/s1600/vtour_screen_cap.gif)
+
 **With This Library You Can:**
 
 * Apply an overlay to a web page, navigating a user through the pages functions.
@@ -14,13 +18,7 @@ A jQuery library used for designing help pages for your website. *Gives the user
 * Twitter Bootstraps Modal and Popover Javascript and styling.
 * jQuery 1.7
 
-Screen Shots
--------------
-
-### VTour Example
-
-![tour1](http://3.bp.blogspot.com/-xVcyvvy8t_g/UoEzGcztEdI/AAAAAAAACJI/NGs0ltPqLVU/s1600/vtour_screen_cap.gif)
-### VGuide Example
+### VGuide Screen Shot
 
 ![guide1](http://3.bp.blogspot.com/-B-dRQaQ6WPU/Un1Lu6GYLNI/AAAAAAAACEc/Ey12UuTI2ms/s640/Screen+Shot+2013-11-08+at+3.27.20+PM.png)
 
