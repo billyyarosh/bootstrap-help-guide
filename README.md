@@ -19,7 +19,7 @@ Screen Shots
 
 ### VTour Example
 
-![tour1](http://1.bp.blogspot.com/-qz-ui2649s8/UoEwopiRlMI/AAAAAAAACI8/B6DlmD30AAA/s1600/vtour_screen_cap.gif)
+![tour1](http://3.bp.blogspot.com/-xVcyvvy8t_g/UoEzGcztEdI/AAAAAAAACJI/NGs0ltPqLVU/s1600/vtour_screen_cap.gif)
 ### VGuide Example
 
 ![guide1](http://3.bp.blogspot.com/-B-dRQaQ6WPU/Un1Lu6GYLNI/AAAAAAAACEc/Ey12UuTI2ms/s640/Screen+Shot+2013-11-08+at+3.27.20+PM.png)
