@@ -106,7 +106,7 @@ Create an html file with the virtual tour's directions.
 
 *Server adds hashtag #vtour to url when redirecting to page*
 
-> example: `http://mysit.com/domain/page#vtour`
+> example: `http://mysite.com/domain/page#vtour`
 
 How This Works (API)
 -----------
